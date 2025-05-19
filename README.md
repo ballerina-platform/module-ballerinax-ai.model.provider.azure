@@ -1,7 +1,7 @@
 # Ballerina Azure OpenAI Model Provider Library
 
-[![Build](https://github.com/ballerina-platform/module-ballerina-ai/workflows/CI/badge.svg)](https://github.com/ballerina-platform/module-ballerina-ai/actions?query=workflow%3ACI)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerina-ai.svg)](https://github.com/ballerina-platform/module-ballerina-ai/commits/master)
+[![Build](https://github.com/ballerina-platform/module-ballerinax-ai.model.provider.azure/workflows/CI/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-ai.model.provider.azure/actions?query=workflow%3ACI)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-ai.model.provider.azure.svg)](https://github.com/ballerina-platform/module-ballerinax-ai.model.provider.azure/commits/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Overview
